@@ -1,0 +1,7 @@
+{"vocabulary":	[{ "filename": "videos/02.mp4", "answer": "horizontal lines"},
+				 { "filename": "videos/03.mp4", "answer": "polka dots"},
+				 { "filename": "videos/04.mp4", "answer": "rough texture"},
+				 { "filename": "videos/05.mp4", "answer": "busy design"},
+				 { "filename": "videos/06.mp4", "answer": "vertical stripes"}],
+				 
+ "filler":		["table","cart","pants","sitting","drinking","shoes","boar","ice cream","taylor swift","ned stark","purple","sheldon cooper","llama","mountain","highway"]}
